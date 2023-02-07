@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "fname": "rushi",
+      "lname": "khatki"
+    },
+    {
+      "id": 7,
+      "fname": "afgedws",
+      "lname": "aedsr",
+      "addname": null,
+      "Gender": null,
+      "DOB": null,
+      "Pincode": null,
+      "Course": null,
+      "email": null
+    },
+    {
+      "id": 8,
+      "fname": "aniket",
+      "lname": "kamble",
+      "addname": "kerli",
+      "Gender": "",
+      "DOB": "2023-02-13",
+      "Pincode": "416229",
+      "Course": "fullstack",
+      "email": "aniket@gmail.com"
+    },
+    {
+      "id": 9,
+      "fname": "fa",
+      "lname": "FEDS",
+      "addname": "FEDS",
+      "Gender": "",
+      "DOB": "2023-02-09",
+      "Pincode": "AFEWSD",
+      "Course": "FAEWSD",
+      "email": "FEWADS"
+    },
+    {
+      "id": 10,
+      "fname": "aniket",
+      "lname": "erds",
+      "addname": "FEDS",
+      "Gender": "",
+      "DOB": "2023-02-16",
+      "Pincode": "sdef",
+      "Course": "FAEWSD",
+      "email": "khujgi"
+    },
+    {
+      "id": 11,
+      "fname": "GTHFDJX",
+      "lname": "DHXTGDH",
+      "addname": "TG",
+      "Gender": "Male",
+      "DOB": "2023-02-02",
+      "Pincode": "HDTG",
+      "Course": "HTGDX",
+      "email": "DXTF"
+    },
+    {
+      "id": 12,
+      "fname": "",
+      "lname": "",
+      "addname": "",
+      "Gender": "",
+      "DOB": "",
+      "Pincode": "",
+      "Course": "",
+      "email": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {}
+}
